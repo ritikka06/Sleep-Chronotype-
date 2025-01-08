@@ -1,0 +1,27 @@
+/**{
+    background-image: linear-gradient(rgb(5, 5, 79) ,rgb(5, 98, 138), rgb(0, 200, 255));
+} 
+
+body{
+    background: linear-gradient(to bottom, #041b69, #37beec);
+} */
+
+*{
+    background-color: black;
+}
+
+
+h1{
+    color: whitesmoke;
+    text-align: center;
+}
+
+h3{
+    color: whitesmoke;
+    text-align: center;
+}
+
+h2{
+    color: whitesmoke;
+    text-align: center;
+}
